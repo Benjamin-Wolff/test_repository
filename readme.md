@@ -1,5 +1,3 @@
 README
 
-howdy
-
-and hello!
+Test repository created
